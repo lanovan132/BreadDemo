@@ -18,7 +18,7 @@
     <item>
      <widget class="QLabel" name="label">
       <property name="text">
-       <string>Bread Store Yummy</string>
+       <string>Bread Store Yummy and Shiny</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
