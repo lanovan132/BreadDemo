@@ -15,11 +15,13 @@ TEMPLATE = app
 SOURCES += main.cpp\
         mainwindow.cpp \
     bread.cpp \
-    chef.cpp
+    chef.cpp \
+    contacts.cpp
 
 HEADERS  += mainwindow.h \
     bread.h \
-    chef.h
+    chef.h \
+    contacts.h
 
 FORMS    += mainwindow.ui
 
